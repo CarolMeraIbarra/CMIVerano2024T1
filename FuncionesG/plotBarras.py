@@ -43,3 +43,4 @@ def plot_grafBarras(frecuencias_relativas, marcas_clase, marcas_texto):
     
     # Mostrar el gráfico
     plt.show()
+
