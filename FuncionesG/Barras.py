@@ -10,7 +10,7 @@ def plot_barras(marcas_clase, frecuencias, marcas_texto):
     # Los colores de las barras se definen en una lista de colores hexadecimales
     plt.barh(marcas_clase, frecuencias, 
              height=0.75, edgecolor="k", 
-             color=["#A832CA", "#F3FF99", "#CA5A37", "#4EE74E", "#298CFC", "#E7DEE4"])
+             color=["#EF90F1", "#90E7F1", "#D8B4EF", "#C7EFB4", "#EFB4C7", "#EFE4B4"])
 
     # Establece las etiquetas del eje y con las marcas de texto
     # El tamaño de la fuente es de 15 puntos

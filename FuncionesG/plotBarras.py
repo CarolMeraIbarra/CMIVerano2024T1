@@ -25,7 +25,7 @@ def plot_grafBarras(frecuencias_relativas, marcas_clase, marcas_texto):
              # Color del borde de cada barra
              edgecolor="k",
              # Colores de cada barra
-             color=["#FF5733", "#33FF57", "#5733FF", "#FF33A6", "#33FFF6"])
+             color=["#EF90F1", "#90E7F1", "#D8B4EF", "#C7EFB4", "#EFB4C7"])
     
     # Etiquetas para el eje y
     plt.yticks(marcas_clase, marcas_texto, fontsize=12)
